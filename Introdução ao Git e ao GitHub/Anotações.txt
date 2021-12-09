@@ -1,1 +1,9 @@
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos:
+-git init (inicia um repositório)
+-git add [nome do arquivo ou -A(todos os arquivos)](adiciona arquivos)
+-git commit -m"(comentário)"(submete as mudanças para o controle do git)
+-git push origin (nome da branch) (envia as mudanças para o repositório)
+-git pull origin mastes (mescla local/remoto)
+-git clone [URL] (clona um projeto já direcionado para um repositório específico)
